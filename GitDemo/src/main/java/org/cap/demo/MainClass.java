@@ -4,6 +4,7 @@ public class MainClass {
 
 	private static void greetings() {
 		System.out.println("Helloo!!");
+		System.out.println("updating GIT project");
 		
 }
 	
