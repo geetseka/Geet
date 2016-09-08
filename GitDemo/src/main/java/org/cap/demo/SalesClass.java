@@ -6,6 +6,8 @@ public class SalesClass {
 	
 	public void display(){
 		System.out.println("Hi!!! Sales Method");
+		
+		System.out.println(arr);
 	}
 
 }
